@@ -2,9 +2,15 @@
 ## Programación Orientada a Objetos
 
 El estilo de programación orientada a objetos sigue vigente aun 
-después de más de cincuenta años de su origen. El paradigma, propuesto en 1967, ha influido a los diseñadores de lenguajes de programción desde entonces y actualmente se incluye en lenguajes populares, como Java, C#, Kotlin, Javascript o Python.  
+después de más de cincuenta años de su origen. El paradigma, propuesto en 1967,
+ha influido a muchos diseñadores de lenguajes de programción y actualmente 
+se incluye elementos del paradigma en lenguajes populares como Java, C#, Kotlin, 
+Javascript o Python.  
  
-Este curso básico de programación orientada a objetos lo abordaremos con una perspectiva moderna, incluyendo algunos elementos de programación funcional y dinámica los cuales también han sido adoptados por lenguajes recientes.
+Este curso básico de programación orientada a objetos lo 
+abordamos con una perspectiva moderna, incluyendo algunos 
+elementos de programación funcional y dinámica los cuales 
+también han sido adoptados por lenguajes recientes.
 
 Los lenguajes que utilizaremos en el curso serán C# y Javascript.
 
@@ -18,6 +24,11 @@ Los lenguajes que utilizaremos en el curso serán C# y Javascript.
 1. Introducción al paradigma de la programación orientado a objetos
     1. Elementos del modelo de objetos: clases, objetos, abstracción, modularidad, encapsulamiento, herencia y polimorfismo.
     2. Lenguaje de modelado unificado: diagrama de clases.
+
+### Actividades de Evaluación
+    1. El paradigma OO: Tarea de Investigación
+    2. Crea un diagrama UML
+    3. Exámen
 
 2. Clases y objetos 
     1. Declaración de [clases](./clases/clases.md): atributos, métodos, encapsulamiento.
